@@ -1,0 +1,13 @@
+[submodule "hai606i-api"]
+	path = hai606i-api
+	url = https://gitlab.com/clement.dolo/hai606i-api.git
+[submodule "hai606i-scrapers"]
+	path = hai606i-scrapers
+	url = https://gitlab.com/clement.dolo/hai606i-scrapers.git
+[submodule "ha606i_projet_de_programmation"]
+	path = ha606i_projet_de_programmation
+	url = https://gitlab.com/Toms34/ha606i_projet_de_programmation
+	branch = Web
+[submodule "cremailleursapp"]
+	path = cremailleursapp
+	url = https://gitlab.com/sashapodge/cremailleursapp.git
